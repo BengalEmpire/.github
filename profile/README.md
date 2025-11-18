@@ -1,5 +1,5 @@
 
-![image](./intro.gif)
+![image](https://ik.imagekit.io/codestation/ezgif-8d4287e5ac501991.gif)
 
  <h1>Welcome to BengalEmpire 👑</h1> <p>The home of innovative projects and collaborative development.</p> </div>
 
